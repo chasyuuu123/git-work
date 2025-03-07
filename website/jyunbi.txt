@@ -1,0 +1,10 @@
+ブラウザとはインターネットを閲覧するためのツールのことである。
+代表的なブラウザ
+・Google Chrome
+・Safari
+・Internet Explorer
+・Microsoft Edge
+・Firefox
+
+テキストエディタとは、文章やプログラムを作成、編集するためのソフトウェアである。
+Visual Studio Codeというテキストエディタを推奨している。Visual Studio Codeはプログラミング開発に特化したエディタで、エンジニアに人気が高いエディタの一つである。
