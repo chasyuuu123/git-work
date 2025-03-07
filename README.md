@@ -20,3 +20,16 @@
 * liタグはlist itemの略で各リストの項目に使う
 * olタグはordered listの略で、olタグに続くliタグで順番がつくリストに対して使う
 * pタグはparagraphの略で、段落を意味する
+
+## CSSの概要を理解しよう
+* CSSとは、スタイルを指定するためのスタイルシート言語
+* background-color：背景をつけることができる
+* width：要素の幅を指定することができる
+* height：要素の高さを指定することができる
+* border：要素に枠線をつける
+* padding：要素の内側の余白を空ける
+* margin：要素の外側の余白を空ける
+* font-size：文字サイズを設定できる 
+* color：文字の色を設定できる
+* font-weight：文字の太さを指定できる
+* text-align：行揃えの位置や、均等割付を指定できる
