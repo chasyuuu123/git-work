@@ -8,3 +8,7 @@ function sum(){
     let z = x + y;
     alert(z);
   }
+
+  function loadFinish(){
+    alert("Finish");
+  }
